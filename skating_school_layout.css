@@ -357,7 +357,7 @@ ul.Icons li i{
 }
 /* about section */
 .about{
-    background: url(../sbs-html/images/about_bg.jpg);
+    background: url(about_bg.jpg);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
